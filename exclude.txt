@@ -245,3 +245,15 @@ com.kurogame.wutheringwaves.global
 com.proximabeta.mf.uamo
 com.tencent.rmos
 com.ea.gp.fifamobile
+com.android.vending
+com.sec.android.app.samsungapps
+com.sec.android.app.shealth
+com.samsung.android.app.notes
+com.samsung.android.oneconnect
+com.samsung.android.voc
+com.moonshot.kimichat
+com.deepseek.chat
+com.tongyi.intl
+kling.ai.video.chat
+tv.twitch.android.app
+com.zhiliaoapp.musically
