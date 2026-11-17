@@ -257,3 +257,4 @@ com.tongyi.intl
 kling.ai.video.chat
 tv.twitch.android.app
 com.zhiliaoapp.musically
+com.huawei.appmarket
