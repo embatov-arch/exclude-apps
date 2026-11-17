@@ -232,7 +232,6 @@ com.tanksblitz
 com.launcher.brgame
 com.grand.launcher
 com.pixonic.wwr
-com.riotgames.league.wildrift
 com.activision.callofduty.shooter
 com.tencent.ig
 com.mobile.legends
