@@ -259,3 +259,5 @@ tv.twitch.android.app
 com.zhiliaoapp.musically
 com.huawei.appmarket
 com.osp.app.signin
+com.wssyncmldm
+com.sec.android.soagent
