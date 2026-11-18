@@ -306,4 +306,3 @@ com.microsoft.appmanager
 com.trtf.blue
 com.fastmail.app
 com.contactoffice.mailfence
-com.riotgames.league.wildrift
